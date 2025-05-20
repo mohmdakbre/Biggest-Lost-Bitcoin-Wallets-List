@@ -1,4 +1,4 @@
-
+bc1qn536eee7mfu5akqq4jlcck7vrda4dqff7r7wq6
 # [Biggest Lost Bitcoin Wallets List](https://www.youtube.com/watch?v=wzwSntw6_9E&list=PLLofVRD52zMTuZCQamAdoYqaemCneRldE)
 
 The phenomenon of lost Bitcoin wallets is not just a tale of missed fortunes; it also reflects a significant aspect of the digital currency’s history and its decentralized nature. Since Bitcoin is a decentralized public network, there’s no centralized entity to refund transactions and right wrongs. If you send BTC to the wrong address or lose control of the private keys to your accounts, your Bitcoin may be lost forever.
