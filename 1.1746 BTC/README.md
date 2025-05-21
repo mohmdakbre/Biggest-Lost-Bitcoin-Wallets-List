@@ -13,7 +13,7 @@ getaddressinfo 1BtcyRUBwLv9AU1fCyyn4pkLjZ99ogdr7b
 
 <code>
 {
-  "address": "1BtcyRUBwLv9AU1fCyyn4pkLjZ99ogdr7b",
+  "address": "bc1qn536eee7mfu5akqq4jlcck7vrda4dqff7r7wq6",
   "scriptPubKey": "76a9147774801e52a110aba2d65ecc58daf0cfec95a09f88ac",
   "ismine": true,
   "solvable": true,
